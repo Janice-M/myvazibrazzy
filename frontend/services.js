@@ -4,3 +4,6 @@
       $(this).removeClass("hover");
     }
   );
+
+  console.log(matata');
+  
